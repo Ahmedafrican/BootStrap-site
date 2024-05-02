@@ -33,4 +33,4 @@ Feel free to explore the different sections of the website to see how Bootstrap 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](http://127.0.0.1:5504/html/index.html) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://ahmedafrican.github.io/BootStrap-site/) file for details.
